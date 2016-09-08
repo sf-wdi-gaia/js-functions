@@ -17,7 +17,7 @@ Functions are the building block of programs. They are the conceptual unit that 
 <!-- specific/measurable goal for students to achieve -->
 *After this workshop, developers will be able to:*
 
-- defining and call a function
+- define and call a function
 - create a function that prints a value and a function that returns a value
 - use the keyword `this` in a function
 
