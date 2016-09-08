@@ -17,10 +17,9 @@ Functions are the building block of programs. They are the conceptual unit that 
 <!-- specific/measurable goal for students to achieve -->
 *After this workshop, developers will be able to:*
 
-- identify the differences between defining a function and calling (invoking) a function (casting the spell).
-- create a simple function that prints a value (for the user/developer to see a result) and a simple function that returns a value (for the rest of the code to use a result). Distinguish between the impact of these different results.
-- draw a model of a function that includes arguments as input, side effects, and return values as output.
-- explain the keyword `this` in the context of different scopes.
+- defining and call a function
+- create a function that prints a value and a function that returns a value
+- use the keyword `this` in a function
 
 ### Where should we be now?
 <!-- call out the skills that are prerequisites -->
